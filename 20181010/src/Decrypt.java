@@ -48,7 +48,8 @@ public class Decrypt extends JFrame {
         frm5 = frm6;
         ex1();
     }private void ex1(){
-//        this.setBounds(100,100,560,400);
+//        this.setBounds(100
+// ,100,560,400);
         this.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
         this.setBounds(screew /2-frmw /2,screeh/2-frmh/2, frmw,frmh);
 
